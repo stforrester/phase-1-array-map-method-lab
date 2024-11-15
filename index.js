@@ -37,3 +37,5 @@ const titleCased = () => {
   //returns the updated Array of tutorial titles that are now title-cased
   return titleCasedTutorials;
 }
+
+//updating to create a new commit
